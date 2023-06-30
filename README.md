@@ -1,2 +1,3 @@
 # git_test
-Testing out github &amp; git
+Testing out github and git
+Hello Odin!
